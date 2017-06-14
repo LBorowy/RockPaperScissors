@@ -169,6 +169,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int which) {
                         myScore = 0;
                         computerScore = 0;
+                        refreshPointsText();
                     }
                 })
                 .setNeutralButton("Neutral", null)
