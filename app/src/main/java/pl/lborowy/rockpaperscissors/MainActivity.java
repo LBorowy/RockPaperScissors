@@ -150,7 +150,7 @@ public class MainActivity extends AppCompatActivity {
             showAlertDialog("You win! ;)");
         }
         else if (computerScore == 3) {
-            showAlertDialog("You loose! ;(");
+            showAlertDialog("You loose!");
         }
     }
 
