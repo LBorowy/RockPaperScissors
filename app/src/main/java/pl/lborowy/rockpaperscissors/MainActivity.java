@@ -147,10 +147,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void checkScore() {
         if (myScore == 3) {
-            showAlertDialog("You win!");
+            showAlertDialog("You win! ;)");
         }
         else if (computerScore == 3) {
-            showAlertDialog("You loose!");
+            showAlertDialog("You loose! ;(");
         }
     }
 
