@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/LBorowy/RockPaperScissors.svg?branch=master)](https://travis-ci.org/LBorowy/RockPaperScissors) # RPS [![codecov](https://codecov.io/gh/LBorowy/RockPaperScissors/branch/master/graph/badge.svg)](https://codecov.io/gh/LBorowy/RockPaperScissors)
+# RPS [![Build Status](https://travis-ci.org/LBorowy/RockPaperScissors.svg?branch=master)](https://travis-ci.org/LBorowy/RockPaperScissors) [![codecov](https://codecov.io/gh/LBorowy/RockPaperScissors/branch/master/graph/badge.svg)](https://codecov.io/gh/LBorowy/RockPaperScissors)
