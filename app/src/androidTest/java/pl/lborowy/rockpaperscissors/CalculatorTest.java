@@ -3,9 +3,6 @@ package pl.lborowy.rockpaperscissors;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.Calendar;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by RENT on 2017-08-29.

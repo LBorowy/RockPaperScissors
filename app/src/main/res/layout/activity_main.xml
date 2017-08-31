@@ -17,8 +17,8 @@
             android:padding="8dp">
 
             <TextView
-                android:text="Player"
-                android:textSize="24dp"
+                android:text="@string/player"
+                android:textSize="24sp"
                 android:gravity="center"
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
@@ -27,8 +27,8 @@
                 android:layout_weight="1" />
 
             <TextView
-                android:text="Computer"
-                android:textSize="24dp"
+                android:text="@string/computer"
+                android:textSize="24sp"
                 android:gravity="center"
                 android:textStyle="bold"
                 android:layout_width="wrap_content"
@@ -45,20 +45,20 @@
             android:weightSum="2">
 
             <TextView
-                android:text="0"
+                android:text="@string/_0"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:textSize="50dp"
+                android:textSize="50sp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/scorePlayer"
                 android:layout_weight="1" />
 
             <TextView
-                android:text="0"
+                android:text="@string/_0"
                 android:textStyle="bold"
                 android:gravity="center"
-                android:textSize="50dp"
+                android:textSize="50sp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/scoreComputer"

@@ -155,8 +155,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void refreshPointsText() {
-        scorePlayer.setText(Integer.toString(myScore));
-        scoreComputer.setText(Integer.toString(computerScore));
+        scorePlayer.setText(String.format(Integer.toString(myScore)));
+        scoreComputer.setText(String.format(Integer.toString(computerScore)));
     }
 
     private void showAlertDialog(String message) {
@@ -188,12 +188,12 @@ public class MainActivity extends AppCompatActivity {
     enum ActionEnum {
         ROCK,
         PAPER,
-        SCISSORS;
+        SCISSORS
     }
 
     enum GameResult {
         WIN,
         LOSE,
-        TIE;
+        TIE
     }
 }
